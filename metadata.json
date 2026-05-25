@@ -1,0 +1,6 @@
+{
+  "name": "Virtual 3D Dressing Room",
+  "description": "An interactive, client-side virtual 3D dressing room with mannequin physical customization, browser-based camera privacy emoji mask, on-device wardrobe upload with auto color extraction, and lookbook calendar saver.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
